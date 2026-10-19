@@ -1,0 +1,3 @@
+Model,Exact-match accuracy,Evaluated examples
+Base Qwen3-0.6B,0.0,25
+Fine-tuned Qwen3-0.6B + LoRA,0.76,25
